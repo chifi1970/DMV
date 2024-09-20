@@ -1,0 +1,8 @@
+Module1 = 208, 208, 1401, 850, 
+modLvTimer = 0, 0, 0, 0, C
+lvButtons_H = 26, 26, 1341, 583, C, 130, 130, 1323, 772, C
+SQL_goals = 0, 0, 0, 0, C
+Registro = 0, 0, 0, 0, C
+Forma_accesar = 286, 286, 1479, 928, C, 182, 182, 1375, 824, C
+Forma_principal = 78, 78, 1271, 720, , 52, 52, 1245, 835, C
+CLogFont = 0, 0, 1315, 557, C
